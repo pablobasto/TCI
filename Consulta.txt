@@ -1,0 +1,5 @@
+Los Casos de uso CU1.1, 1.2, 1.3 y 1.4 son invocados por diferentes actores (Supervisores y Coordinadores) y el 1.2 y 1.4 por Supervisores,Coordinadores y telemarketers.
+Mi consulta es la siguiente: Como determino el actor en cada uno de ellos?
+En este momento dichos CU tiene como actor al Supervisor, pero un coordinador puede consultar lo mismo a otro nivel. Lo mismo para el telemarketer cuando quiere consultar por una venta o una oportunidad.
+Los CU son los mismos pero cambia el actor. 
+Como se refleja eso?
